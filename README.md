@@ -34,4 +34,4 @@ The web app can be accessed from the following link [https://pitch-eat.herokuapp
 
 ## License ([MIT License](http://choosealicense.com/licenses/mit/))
 
-This project is licensed under the MIT Open Source license, (c) [Immanuel Mugambi](https://github.com/Imma7)
+This project is licensed under the MIT Open Source license, (c) [Nimo Said](https://github.com/nimosaid)
