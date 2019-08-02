@@ -26,7 +26,7 @@ The web app can be accessed from the following link [https://pitch-eat.herokuapp
 
 ## Contributions
 
-- Git clone [https://github.com/Imma7/Pitch-IT.git](https://github.com/Imma7/Pitch-IT.git) 
+- Git clone 
 - Make the changes.
 - Write your tests on `tests/`
 - If everything is OK. push your changes and make a pull request.
