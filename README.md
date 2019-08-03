@@ -11,12 +11,6 @@ Pitches is a web application that allows users to use that one minute wisely. Th
 3. user should comment on the different pitches and leave feedback.
 4. user should submit a pitch in any category.
 
-<!-- ## Specifications
-[Specification file](https://github.com/Imma7/Pitch-IT/blob/master/specs.md) -->
-
-<!-- ## Live Demo
-
-The web app can be accessed from the following link [https://pitch-eat.herokuapp.com/](https://pitch-eat.herokuapp.com/) -->
 
 ## Technology used
 
