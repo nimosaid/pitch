@@ -1,22 +1,16 @@
-{% extends 'base.html' %}
-{% import 'bootstrap/wtf.html' as wtf%}
-{% import 'macros.html' as macro%}
+{% extends 'base.html' %} {% import 'bootstrap/wtf.html' as wtf%} {% import 'macros.html' as macro%} {% block content %}
+<title> {{ title }} </title>
 
+<div class="container" style="background-color : rgb(101, 245, 35);">
+    <div class="row">
+        <div class="col-md-2 col-lg-2"> </div>
 
+        <div class=" col-xs-12 col-sm-12 col-md-8 col-lg-8 create-group">
 
-{% block content %}
-    <title> {{ title }} </title>
-
-    <div class="container">
-        <div class="row">
-            <div class="col-md-2 col-lg-2"> </div>
-
-            <div class=" col-xs-12 col-sm-12 col-md-8 col-lg-8 create-group">
-
-                {{ wtf.quick_form(category_form) }}
-
-            </div>
+            {{ wtf.quick_form(category_form) }}
 
         </div>
+
     </div>
+</div>
 {% endblock %}
